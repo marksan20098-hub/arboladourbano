@@ -1,0 +1,6 @@
+{
+  "name": "ArboMap — Gestión de Arbolado",
+  "description": "Registro geográfico de árboles y tareas de riego o poda integrado con Supabase y Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
